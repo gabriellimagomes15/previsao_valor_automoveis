@@ -53,7 +53,9 @@ Mas você pode rodar todo o processo desde o início, coletando novos dados e tr
 
 # **CONTATOS**
 insta: https://www.instagram.com/info_dados/
+
 linkedin: https://www.linkedin.com/in/gabriellimagomes/
+
 email: gabriel.lg08@gmail.com
 
 
