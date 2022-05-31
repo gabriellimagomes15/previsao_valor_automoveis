@@ -50,3 +50,10 @@ Você pode executar aplicação no **google colab** ou na sua *máquina local* u
 Para isso, faça o **download do repositório** e coloca no seu diretório. Você pode usar o modelo já treinado, para isso base abrir e rodar o código **05_executar_modelo.ipynb**. 
 Mas você pode rodar todo o processo desde o início, coletando novos dados e treinando um novo modelo, assim, executando os código na sequência indicada acima.
 
+
+# **CONTATOS**
+insta: https://www.instagram.com/info_dados/
+linkedin: https://www.linkedin.com/in/gabriellimagomes/
+email: gabriel.lg08@gmail.com
+
+
